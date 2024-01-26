@@ -1,6 +1,5 @@
 # OAscan
 
-![https://mmbiz.qpic.cn/sz_mmbiz_png/eB3EG94WJmjtNomJBzpCODlH0CoIKg8UUJA7mRc7vOg1XQibM4071icEgfs2A2EaVUx379yNfPT1bNqrL4fY6Nag/640?wx_fmt=png&from=appmsg&wxfrom=13)
 
 用友漏洞批量检测，poc检测难免有误报的可能在。
 
